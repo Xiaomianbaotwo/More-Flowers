@@ -1,0 +1,259 @@
+{
+  "mod_elements": [
+    {
+      "name": "CyanTulip",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_tulip",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_flowers/loot_table/blocks/cyan_tulip.json",
+          "src/main/java/net/mcreator/moreflowers/block/CyanTulipBlock.java",
+          "src/main/resources/assets/more_flowers/models/item/cyan_tulip.json",
+          "src/main/resources/assets/more_flowers/blockstates/cyan_tulip.json",
+          "src/main/resources/data/more_flowers/worldgen/placed_feature/cyan_tulip.json",
+          "src/main/resources/assets/more_flowers/models/block/cyan_tulip.json",
+          "src/main/resources/data/more_flowers/worldgen/configured_feature/cyan_tulip.json",
+          "src/main/resources/data/more_flowers/neoforge/biome_modifier/cyan_tulip_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "Chrysanthemum",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chrysanthemum",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_flowers/worldgen/placed_feature/chrysanthemum.json",
+          "src/main/java/net/mcreator/moreflowers/block/ChrysanthemumBlock.java",
+          "src/main/resources/data/more_flowers/loot_table/blocks/chrysanthemum.json",
+          "src/main/resources/data/more_flowers/neoforge/biome_modifier/chrysanthemum_biome_modifier.json",
+          "src/main/resources/assets/more_flowers/models/item/chrysanthemum.json",
+          "src/main/resources/data/more_flowers/worldgen/configured_feature/chrysanthemum.json",
+          "src/main/resources/assets/more_flowers/blockstates/chrysanthemum.json",
+          "src/main/resources/assets/more_flowers/models/block/chrysanthemum.json"
+        ]
+      }
+    },
+    {
+      "name": "LightBlueTulip",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_blue_tulip",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_flowers/worldgen/configured_feature/light_blue_tulip.json",
+          "src/main/resources/data/more_flowers/neoforge/biome_modifier/light_blue_tulip_biome_modifier.json",
+          "src/main/resources/assets/more_flowers/models/block/light_blue_tulip.json",
+          "src/main/java/net/mcreator/moreflowers/block/LightBlueTulipBlock.java",
+          "src/main/resources/data/more_flowers/worldgen/placed_feature/light_blue_tulip.json",
+          "src/main/resources/data/more_flowers/loot_table/blocks/light_blue_tulip.json",
+          "src/main/resources/assets/more_flowers/models/item/light_blue_tulip.json",
+          "src/main/resources/assets/more_flowers/blockstates/light_blue_tulip.json"
+        ]
+      }
+    },
+    {
+      "name": "PurpleTulip",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_tulip",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/more_flowers/blockstates/purple_tulip.json",
+          "src/main/resources/data/more_flowers/worldgen/placed_feature/purple_tulip.json",
+          "src/main/resources/data/more_flowers/loot_table/blocks/purple_tulip.json",
+          "src/main/java/net/mcreator/moreflowers/block/PurpleTulipBlock.java",
+          "src/main/resources/data/more_flowers/neoforge/biome_modifier/purple_tulip_biome_modifier.json",
+          "src/main/resources/data/more_flowers/worldgen/configured_feature/purple_tulip.json",
+          "src/main/resources/assets/more_flowers/models/block/purple_tulip.json",
+          "src/main/resources/assets/more_flowers/models/item/purple_tulip.json"
+        ]
+      }
+    },
+    {
+      "name": "YellowTulip",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_tulip",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_flowers/neoforge/biome_modifier/yellow_tulip_biome_modifier.json",
+          "src/main/resources/data/more_flowers/worldgen/configured_feature/yellow_tulip.json",
+          "src/main/resources/assets/more_flowers/blockstates/yellow_tulip.json",
+          "src/main/resources/data/more_flowers/worldgen/placed_feature/yellow_tulip.json",
+          "src/main/resources/data/more_flowers/loot_table/blocks/yellow_tulip.json",
+          "src/main/resources/assets/more_flowers/models/item/yellow_tulip.json",
+          "src/main/java/net/mcreator/moreflowers/block/YellowTulipBlock.java",
+          "src/main/resources/assets/more_flowers/models/block/yellow_tulip.json"
+        ]
+      }
+    },
+    {
+      "name": "IrisFlower",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iris_flower",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_flowers/worldgen/placed_feature/iris_flower.json",
+          "src/main/resources/data/more_flowers/neoforge/biome_modifier/iris_flower_biome_modifier.json",
+          "src/main/resources/data/more_flowers/loot_table/blocks/iris_flower.json",
+          "src/main/resources/data/more_flowers/worldgen/configured_feature/iris_flower.json",
+          "src/main/resources/assets/more_flowers/blockstates/iris_flower.json",
+          "src/main/resources/assets/more_flowers/models/item/iris_flower.json",
+          "src/main/resources/assets/more_flowers/models/block/iris_flower.json",
+          "src/main/java/net/mcreator/moreflowers/block/IrisFlowerBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Gesangflower",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gesangflower",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_flowers/neoforge/biome_modifier/gesangflower_biome_modifier.json",
+          "src/main/resources/data/more_flowers/loot_table/blocks/gesangflower.json",
+          "src/main/resources/data/more_flowers/worldgen/configured_feature/gesangflower.json",
+          "src/main/resources/data/more_flowers/worldgen/placed_feature/gesangflower.json",
+          "src/main/resources/assets/more_flowers/models/block/gesangflower.json",
+          "src/main/resources/assets/more_flowers/models/item/gesangflower.json",
+          "src/main/java/net/mcreator/moreflowers/block/GesangflowerBlock.java",
+          "src/main/resources/assets/more_flowers/blockstates/gesangflower.json"
+        ]
+      }
+    },
+    {
+      "name": "Hyacinth",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hyacinth",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moreflowers/block/HyacinthBlock.java",
+          "src/main/resources/data/more_flowers/loot_table/blocks/hyacinth.json",
+          "src/main/resources/assets/more_flowers/models/block/hyacinth.json",
+          "src/main/resources/data/more_flowers/neoforge/biome_modifier/hyacinth_biome_modifier.json",
+          "src/main/resources/data/more_flowers/worldgen/placed_feature/hyacinth.json",
+          "src/main/resources/assets/more_flowers/models/item/hyacinth.json",
+          "src/main/resources/data/more_flowers/worldgen/configured_feature/hyacinth.json",
+          "src/main/resources/assets/more_flowers/blockstates/hyacinth.json"
+        ]
+      }
+    },
+    {
+      "name": "Redspiderlily",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redspiderlily",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/more_flowers/models/item/redspiderlily.json",
+          "src/main/resources/assets/more_flowers/blockstates/redspiderlily.json",
+          "src/main/resources/data/more_flowers/worldgen/placed_feature/redspiderlily.json",
+          "src/main/resources/data/more_flowers/loot_table/blocks/redspiderlily.json",
+          "src/main/resources/assets/more_flowers/models/block/redspiderlily.json",
+          "src/main/resources/data/more_flowers/neoforge/biome_modifier/redspiderlily_biome_modifier.json",
+          "src/main/resources/data/more_flowers/worldgen/configured_feature/redspiderlily.json",
+          "src/main/java/net/mcreator/moreflowers/block/RedspiderlilyBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "MoreFlowers",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "more_flowers",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {
+    "DECORATIONS": [
+      "CyanTulip",
+      "LightBlueTulip",
+      "PurpleTulip",
+      "YellowTulip",
+      "Chrysanthemum",
+      "Redspiderlily",
+      "Gesangflower",
+      "IrisFlower",
+      "Hyacinth"
+    ],
+    "CUSTOM:MoreFlowers": [
+      "CyanTulip",
+      "LightBlueTulip",
+      "PurpleTulip",
+      "YellowTulip",
+      "Chrysanthemum",
+      "Gesangflower",
+      "Redspiderlily",
+      "IrisFlower",
+      "Hyacinth"
+    ]
+  },
+  "language_map": {
+    "en_us": {
+      "block.more_flowers.cyan_tulip": "Cyan Tulip",
+      "block.more_flowers.chrysanthemum": "Chrysanthemum",
+      "block.more_flowers.light_blue_tulip": "Light Blue Tulip",
+      "block.more_flowers.purple_tulip": "Purple Tulip",
+      "block.more_flowers.yellow_tulip": "Yellow Tulip",
+      "block.more_flowers.iris_flower": "Iris Flower",
+      "block.more_flowers.gesangflower": "Gesangflower",
+      "block.more_flowers.hyacinth": "Hyacinth",
+      "block.more_flowers.redspiderlily": "Redspiderlily",
+      "item_group.more_flowers.more_flowers": "More Flowers"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/moreflowers/init/MoreFlowersModBlocks.java",
+      "src/main/java/net/mcreator/moreflowers/init/MoreFlowersModItems.java",
+      "src/main/java/net/mcreator/moreflowers/MoreFlowersMod.java",
+      "src/main/java/net/mcreator/moreflowers/init/MoreFlowersModTabs.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/resources/META-INF/neoforge.mods.toml"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "more_flowers",
+    "modName": "More flowers",
+    "version": "1.0.0",
+    "description": "Add more flowers",
+    "author": "MCreator",
+    "websiteURL": "https://modrinth.com/project/more_flowers",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "modPicture": "chrysanthemum",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.moreflowers"
+  },
+  "mcreatorVersion": 202500345720
+}
