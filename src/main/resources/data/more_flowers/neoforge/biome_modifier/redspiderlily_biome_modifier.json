@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "badlands",
+    "eroded_badlands",
+    "wooded_badlands"
+  ],
+  "features": "more_flowers:redspiderlily",
+  "step": "vegetal_decoration"
+}

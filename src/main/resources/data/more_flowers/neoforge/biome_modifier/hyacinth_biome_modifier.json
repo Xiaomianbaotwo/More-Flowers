@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "taiga",
+    "snowy_taiga"
+  ],
+  "features": "more_flowers:hyacinth",
+  "step": "vegetal_decoration"
+}

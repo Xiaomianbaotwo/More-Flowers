@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "more_flowers:block/iris_flower",
+    "particle": "more_flowers:block/iris_flower"
+  },
+  "render_type": "cutout"
+}

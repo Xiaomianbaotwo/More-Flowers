@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "flower_forest",
+    "plains"
+  ],
+  "features": "more_flowers:light_blue_tulip",
+  "step": "vegetal_decoration"
+}
